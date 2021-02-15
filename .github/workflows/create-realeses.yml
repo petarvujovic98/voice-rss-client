@@ -20,7 +20,7 @@ jobs:
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
 
   publish-npm:
-    if: ${{ needs.release-please.release.outputs.release_created }}
+    if: ${{ needs.release-please.steps.release.outputs.release_created }}
     needs: release-please
     runs-on: ubuntu-latest
     steps:
@@ -51,7 +51,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
   publish-gpr:
-    if: ${{ needs.release-please.release.outputs.release_created }}
+    if: ${{ needs.release-please.steps.release.outputs.release_created }}
     needs: release-please
     runs-on: ubuntu-latest
     steps:
