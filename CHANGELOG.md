@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.4](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.3...v1.0.4) (2021-02-15)
+
+
+### Miscellaneous
+
+* Fix release workflow outputs ([2eee2ae](https://www.github.com/petarvujovic98/voice-rss-client/commit/2eee2ae4a9b3e679902f5f83c5cf44306aacf681))
+
 ### [1.0.3](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.2...v1.0.3) (2021-02-15)
 
 
