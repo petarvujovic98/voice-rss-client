@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.11](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.10...v1.0.11) (2021-02-15)
+
+
+### Bug Fixes
+
+* Change auth token for gpr ([ebad731](https://www.github.com/petarvujovic98/voice-rss-client/commit/ebad731140a0429b21f51767e42e926946433daa))
+
 ### [1.0.10](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.9...v1.0.10) (2021-02-15)
 
 
