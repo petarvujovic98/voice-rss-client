@@ -36,7 +36,7 @@ const bundledConfig: Configuration = merge(commonConfig, {
 });
 
 const browserConfig: Configuration = merge(commonConfig, {
-  entry: "./src/browser.ts",
+  entry: "./src/browser/index.ts",
   output: {
     filename: "browser.js",
   },
@@ -44,7 +44,7 @@ const browserConfig: Configuration = merge(commonConfig, {
 
 const nodeConfig: Configuration = merge(commonConfig, {
   target: "node",
-  entry: "./src/node.ts",
+  entry: "./src/node/index.ts",
   plugins: [new CleanWebpackPlugin()],
   output: {
     filename: "node.js",
