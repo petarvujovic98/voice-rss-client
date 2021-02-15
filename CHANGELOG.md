@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.8](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.7...v1.0.8) (2021-02-15)
+
+
+### Miscellaneous
+
+* Add specific browser and node usage instructions ([f570c99](https://www.github.com/petarvujovic98/voice-rss-client/commit/f570c997d7177ad519a9a1fea9528e4da5bb4375))
+
 ### [1.0.7](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.6...v1.0.7) (2021-02-15)
 
 
