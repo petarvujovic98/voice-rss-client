@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.10](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.9...v1.0.10) (2021-02-15)
+
+
+### Bug Fixes
+
+* Add github packages scope to publish successfully ([d1517df](https://www.github.com/petarvujovic98/voice-rss-client/commit/d1517dfeeb0ca96b7efb086596a9920baff7eee7))
+
 ### [1.0.9](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.8...v1.0.9) (2021-02-15)
 
 
