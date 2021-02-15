@@ -23,7 +23,7 @@ jobs:
       release_created: ${{ steps.release.outputs.release_created }}
 
   publish-npm:
-    if: ${{ needs.release-please.release_created }}
+    if: ${{ needs.release-please.outputs.release_created }}
     needs: release-please
     runs-on: ubuntu-latest
     steps:
@@ -54,7 +54,7 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
   publish-gpr:
-    if: ${{ needs.release-please.release_created }}
+    if: ${{ needs.release-please.outputs.release_created }}
     needs: release-please
     runs-on: ubuntu-latest
     steps:
