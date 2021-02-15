@@ -31,7 +31,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14.x
-          registry-url: 'https://registry.npmjs.org'
+          registry-url: "https://registry.npmjs.org"
 
       - name: Get npm cache directory
         id: npm-cache-dir
@@ -54,14 +54,16 @@ jobs:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
   publish-gpr:
-    needs: publish-npm
+    if: ${{ needs.release-please.outputs.release_created }}
+    needs: release-please
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
         with:
           node-version: 14.x
-          registry-url: 'https://npm.pkg.github.com'
+          registry-url: "https://npm.pkg.github.com"
+          scope: "@petarvujovic98"
 
       - name: Get npm cache directory
         id: npm-cache-dir
@@ -79,6 +81,7 @@ jobs:
       - run: npm ci
         env:
           NODE_ENV: production
+      - run: echo "registry=https://npm.pkg.github.com/petarvujovic98" >> .npmrc
       - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
