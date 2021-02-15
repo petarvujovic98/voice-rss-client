@@ -19,6 +19,9 @@ jobs:
           bump-minor-pre-major: Yes
           changelog-types: '[{"type":"feat","section":"Features","hidden":false},{"type":"fix","section":"Bug Fixes","hidden":false},{"type":"chore","section":"Miscellaneous","hidden":false}]'
 
+    outputs:
+      release_created: ${{ steps.release.outputs.random-id }}
+
   publish-npm:
     if: ${{ needs.release-please.release_created }}
     needs: release-please
