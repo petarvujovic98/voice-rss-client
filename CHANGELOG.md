@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.12](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.11...v1.0.12) (2021-02-15)
+
+
+### Bug Fixes
+
+* Fix gpr publish job ([6926464](https://www.github.com/petarvujovic98/voice-rss-client/commit/6926464ddb2dfbdfd1ebf92ae1bfa9c26f67537f))
+
 ### [1.0.11](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.10...v1.0.11) (2021-02-15)
 
 
