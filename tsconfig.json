@@ -1,0 +1,33 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "esModuleInterop": true,
+    "target": "es5",
+    "outDir": "./dist",
+    "declaration": true,
+    "declarationDir": "./dist",
+    "moduleResolution": "Node",
+    "noUncheckedIndexedAccess": true,
+    "sourceMap": true,
+    "lib": [
+      "dom",
+      "es5",
+      "scripthost",
+      "dom"
+    ],
+    "allowSyntheticDefaultImports": true,
+    "noImplicitAny": true,
+    "allowJs": true
+  },
+  "include": [
+    "src/**/*.ts"
+  ],
+  "exclude": [
+    "node_modules",
+    "dist",
+    "src/**/*.spec.ts"
+  ],
+  "files": [
+    "src/index.ts"
+  ]
+}
