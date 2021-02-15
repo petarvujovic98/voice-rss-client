@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.1](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.0...v1.0.1) (2021-02-15)
+
+
+### Bug Fixes
+
+* Add production optimization to CI workflows ([7e011a0](https://www.github.com/petarvujovic98/voice-rss-client/commit/7e011a0b40b3123be1848236a0a8a91d4e08a5b9))
+* Remove webpack clean up plugin use ([1fb5a53](https://www.github.com/petarvujovic98/voice-rss-client/commit/1fb5a53faf42bfbea4cb3ec15aa175ef35e37f6e))
+
 ## 1.0.0 (2021-02-15)
 
 
