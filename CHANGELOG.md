@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.9](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.8...v1.0.9) (2021-02-15)
+
+
+### Bug Fixes
+
+* Publish on github after npm ([dddb823](https://www.github.com/petarvujovic98/voice-rss-client/commit/dddb823281eb0529467b7ba1d252f7168ca36ee2))
+
 ### [1.0.8](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.7...v1.0.8) (2021-02-15)
 
 
