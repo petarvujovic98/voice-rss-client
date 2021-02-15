@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.7](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.6...v1.0.7) (2021-02-15)
+
+
+### Miscellaneous
+
+* Fix typo in get npm cache step ([f58161a](https://www.github.com/petarvujovic98/voice-rss-client/commit/f58161a3e2bf9e13e2ce9539961f32fdbb67db05))
+
 ### [1.0.6](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.5...v1.0.6) (2021-02-15)
 
 
