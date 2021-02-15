@@ -45,7 +45,7 @@ const browserConfig: Configuration = merge(commonConfig, {
 const nodeConfig: Configuration = merge(commonConfig, {
   target: "node",
   entry: "./src/node/index.ts",
-  plugins: [new CleanWebpackPlugin()],
+  plugins: [process.env.NODE_ENV === "production" ? null : new CleanWebpackPlugin()],
   output: {
     filename: "node.js",
   },
