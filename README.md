@@ -70,6 +70,27 @@ The config object accepts only the options listed on the official Voice RSS API 
 in your IDE provides autocompletion for the options available, as well as the language speakers according to the
 selected language.
 
+### Browser
+
+If you are using this package in the browser only you can import the browser version only for a smaller bundle size:
+
+```javascript
+import { getSpeech } from "voice-rss-client/dist/browser";
+```
+
+### Node
+
+If you are using this package in Node only you can import the Node version only for a smaller bundle size:
+
+```javascript
+import { getSpeech } from "voice-rss-client/dist/node";
+```
+
+### Combined
+
+If you are using this package in both the Node and browser environment you can use the regular import statements as the
+package determines which version to use based on the environment it gets called in.
+
 ## Contributions
 
 All contributions are welcome as this is a side project that I have created in my spare time. Any advice or
