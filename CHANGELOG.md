@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.0.16](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.15...v1.0.16) (2021-05-13)
+
+
+### Miscellaneous
+
+* **deps:** Bump hosted-git-info from 2.8.8 to 2.8.9 ([fd2f598](https://www.github.com/petarvujovic98/voice-rss-client/commit/fd2f5985181ed9633a244f880fe150c53ef8ce5c))
+* **deps:** Bump lodash from 4.17.20 to 4.17.21 ([ae5953b](https://www.github.com/petarvujovic98/voice-rss-client/commit/ae5953b20489826f7795d3f8a8bc83fbfba29c39))
+
 ### [1.0.15](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.14...v1.0.15) (2021-02-15)
 
 
