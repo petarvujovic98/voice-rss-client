@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.17](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.16...v1.0.17) (2021-05-27)
+
+
+### Miscellaneous
+
+* **deps:** Bump browserslist from 4.16.3 to 4.16.6 ([b681f2a](https://www.github.com/petarvujovic98/voice-rss-client/commit/b681f2a678645f33bbc6f3e45a71b6bedb1e841b))
+
 ### [1.0.16](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.15...v1.0.16) (2021-05-13)
 
 
