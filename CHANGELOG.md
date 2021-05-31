@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.18](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.17...v1.0.18) (2021-05-31)
+
+
+### Miscellaneous
+
+* **deps:** Bump ws from 7.4.2 to 7.4.6 ([57c78b8](https://www.github.com/petarvujovic98/voice-rss-client/commit/57c78b8ffaeb8a1819d438b3dc9d125f05f8be21))
+
 ### [1.0.17](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.16...v1.0.17) (2021-05-27)
 
 
