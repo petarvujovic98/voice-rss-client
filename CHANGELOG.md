@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.20](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.19...v1.0.20) (2021-07-08)
+
+
+### Miscellaneous
+
+* Add VSCode badge ([b444be7](https://www.github.com/petarvujovic98/voice-rss-client/commit/b444be76217d591c230bb6780506fc07a27b6e07))
+
 ### [1.0.19](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.18...v1.0.19) (2021-06-12)
 
 
