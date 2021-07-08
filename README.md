@@ -12,6 +12,8 @@
 
 # Voice RSS Client
 
+[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/organization/repository)
+
 ## What is it?
 
 It is a zero dependency [TypeScript](https://www.typescriptlang.org/) implementation of the [VoiceRSS SDK](http://www.voicerss.org/api/)
