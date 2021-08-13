@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.21](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.20...v1.0.21) (2021-08-13)
+
+
+### Miscellaneous
+
+* **deps:** Bump path-parse from 1.0.6 to 1.0.7 ([18905f4](https://www.github.com/petarvujovic98/voice-rss-client/commit/18905f420c9c65a36feb264bcde4d74b665cce2f))
+
 ### [1.0.20](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.19...v1.0.20) (2021-07-08)
 
 
