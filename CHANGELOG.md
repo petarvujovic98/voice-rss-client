@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.22](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.21...v1.0.22) (2021-09-22)
+
+
+### Miscellaneous
+
+* **deps:** Bump tmpl from 1.0.4 to 1.0.5 ([5a0968a](https://www.github.com/petarvujovic98/voice-rss-client/commit/5a0968a1b7a5de992b3b96a3363540c950934152))
+
 ### [1.0.21](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.20...v1.0.21) (2021-08-13)
 
 
