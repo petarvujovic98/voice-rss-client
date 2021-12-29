@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.22...v1.1.0) (2021-12-29)
+
+
+### Features
+
+* Fix test suites environment configuration ([864e310](https://www.github.com/petarvujovic98/voice-rss-client/commit/864e310a838bfe4c3879d3baf9b0ebdbe1fefaa6))
+
+
+### Miscellaneous
+
+* Update dependencies ([d36ec35](https://www.github.com/petarvujovic98/voice-rss-client/commit/d36ec352b1dc3b21d591fa72512220c407dd3573))
+
 ### [1.0.22](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.21...v1.0.22) (2021-09-22)
 
 
