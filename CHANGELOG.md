@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.2.1](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.2.0...v1.2.1) (2021-12-29)
+
+
+### Bug Fixes
+
+* Fix files directive in package.json ([94cd884](https://www.github.com/petarvujovic98/voice-rss-client/commit/94cd88435afc47d66e5b542cb5a6bae372d074c2))
+
 ## [1.2.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.1.0...v1.2.0) (2021-12-29)
 
 
