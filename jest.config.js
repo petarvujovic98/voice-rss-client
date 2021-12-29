@@ -4,6 +4,7 @@ module.exports = {
       displayName: "browser",
       preset: "ts-jest",
       testMatch: ["**/*/!(node)/*.spec.ts"],
+      testEnvironment: "jsdom",
     },
     {
       displayName: "node",
