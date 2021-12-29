@@ -13,7 +13,8 @@
     "test:watch": "jest --watch",
     "lint": "eslint --fix src/**/*.ts tests/**/*.ts",
     "format": "prettier --write src/**/*.ts tests/**/*.ts",
-    "build": "webpack"
+    "build": "webpack",
+    "prepublishOnly": "npm run build"
   },
   "repository": {
     "type": "git",

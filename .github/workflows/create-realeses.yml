@@ -47,11 +47,9 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: npm run build
-        env:
-          NODE_ENV: production
       - run: npm publish
         env:
+          NODE_ENV: production
           NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
   publish-gpr:
@@ -79,11 +77,9 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: npm run build
-        env:
-          NODE_ENV: production
       - run: |
           echo "$(sed 's/\"name\": \"/&@petarvujovic98\//' package.json)" > package.json
       - run: npm publish
         env:
+          NODE_ENV: production
           NODE_AUTH_TOKEN: ${{secrets.GITHUB_TOKEN}}
