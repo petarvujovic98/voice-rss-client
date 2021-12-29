@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.1.0...v1.2.0) (2021-12-29)
+
+
+### Features
+
+* Add prepublish script ([5b6e9ba](https://www.github.com/petarvujovic98/voice-rss-client/commit/5b6e9ba10eb6f8cbc42d371a15caad6a781de1ed))
+
+
+### Miscellaneous
+
+* Format tsconfig ([8b94048](https://www.github.com/petarvujovic98/voice-rss-client/commit/8b94048f4edf5326b4e1fa308e85a15dab1e5188))
+* Update actions test environment ([7e3969c](https://www.github.com/petarvujovic98/voice-rss-client/commit/7e3969c433f239f8d5345f2afcd4b2b7d0b8c1a2))
+
 ## [1.1.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.0.22...v1.1.0) (2021-12-29)
 
 
