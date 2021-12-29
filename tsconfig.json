@@ -9,25 +9,12 @@
     "moduleResolution": "Node",
     "noUncheckedIndexedAccess": true,
     "sourceMap": true,
-    "lib": [
-      "dom",
-      "es5",
-      "scripthost",
-      "dom"
-    ],
+    "lib": ["dom", "es5", "scripthost"],
     "allowSyntheticDefaultImports": true,
     "noImplicitAny": true,
     "allowJs": true
   },
-  "include": [
-    "src/**/*.ts"
-  ],
-  "exclude": [
-    "node_modules",
-    "dist",
-    "src/**/*.spec.ts"
-  ],
-  "files": [
-    "src/index.ts"
-  ]
+  "include": ["src/**/*.ts"],
+  "exclude": ["node_modules", "dist", "src/**/*.spec.ts"],
+  "files": ["src/index.ts"]
 }
