@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.2.1...v1.3.0) (2022-01-23)
+
+
+### Features
+
+* Add https support to browser client ([83e1a9f](https://www.github.com/petarvujovic98/voice-rss-client/commit/83e1a9f6819236777f585c6220db49bb52de0ddc))
+
 ### [1.2.1](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.2.0...v1.2.1) (2021-12-29)
 
 
