@@ -7,7 +7,7 @@ import { ERROR_PREFIX, HEADER_NAME, HEADER_VALUE, VOICE_RSS_URL } from "../types
  * @returns {Promise<string>}
  */
 export async function makeRequest(query: string): Promise<string> {
-  const response = await fetch(`http://${VOICE_RSS_URL}`, {
+  const response = await fetch(`https://${VOICE_RSS_URL}`, {
     method: "POST",
     headers: {
       [HEADER_NAME]: HEADER_VALUE,
