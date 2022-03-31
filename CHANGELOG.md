@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.1](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.0...v1.3.1) (2022-03-29)
+
+
+### Miscellaneous
+
+* **deps:** Bump minimist from 1.2.5 to 1.2.6 ([8f15180](https://www.github.com/petarvujovic98/voice-rss-client/commit/8f151804a1fa4ba87943606a7637db58aff3dbee))
+
 ## [1.3.0](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.2.1...v1.3.0) (2022-01-23)
 
 
