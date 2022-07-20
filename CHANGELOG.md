@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.2](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.1...v1.3.2) (2022-07-20)
+
+
+### Miscellaneous
+
+* **deps:** Bump terser from 5.10.0 to 5.14.2 ([78c1159](https://www.github.com/petarvujovic98/voice-rss-client/commit/78c115945a6346a010fd4f69c36bb502aa57d411))
+
 ### [1.3.1](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.0...v1.3.1) (2022-03-29)
 
 
