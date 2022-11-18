@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.3](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.2...v1.3.3) (2022-11-18)
+
+
+### Miscellaneous
+
+* **deps:** Bump minimatch from 3.0.4 to 3.1.2 ([f2847ca](https://www.github.com/petarvujovic98/voice-rss-client/commit/f2847ca3a4923858885f42b4a028ab8c78c1c27a))
+
 ### [1.3.2](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.1...v1.3.2) (2022-07-20)
 
 
