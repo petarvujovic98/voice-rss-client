@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.4](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.3...v1.3.4) (2023-01-09)
+
+
+### Miscellaneous
+
+* **deps:** Bump json5 from 2.1.3 to 2.2.3 ([dcb5e1f](https://www.github.com/petarvujovic98/voice-rss-client/commit/dcb5e1fa577c1b982510c01499c921b4b3ff8eab))
+
 ### [1.3.3](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.2...v1.3.3) (2022-11-18)
 
 
