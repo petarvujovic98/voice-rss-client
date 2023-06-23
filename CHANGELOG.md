@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.5](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.4...v1.3.5) (2023-06-23)
+
+
+### Miscellaneous
+
+* **deps-dev:** Bump webpack from 5.65.0 to 5.76.0 ([9c587f6](https://www.github.com/petarvujovic98/voice-rss-client/commit/9c587f633b2ab1633b4b9ed4a8ce29df0cde84f9))
+
 ### [1.3.4](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.3...v1.3.4) (2023-01-09)
 
 
