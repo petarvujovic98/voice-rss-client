@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.6](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.5...v1.3.6) (2023-07-10)
+
+
+### Miscellaneous
+
+* **deps:** Bump tough-cookie from 4.0.0 to 4.1.3 ([eb929ea](https://www.github.com/petarvujovic98/voice-rss-client/commit/eb929ea687146fc2c3792a55602a2a8b3cbc1b69))
+
 ### [1.3.5](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.4...v1.3.5) (2023-06-23)
 
 
