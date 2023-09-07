@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.7](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.6...v1.3.7) (2023-09-07)
+
+
+### Miscellaneous
+
+* **deps-dev:** Bump word-wrap from 1.2.3 to 1.2.4 ([52ca711](https://www.github.com/petarvujovic98/voice-rss-client/commit/52ca711aa5191da6491d91179dd03a1c89103439))
+
 ### [1.3.6](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.5...v1.3.6) (2023-07-10)
 
 
