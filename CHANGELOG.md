@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.3.8](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.7...v1.3.8) (2024-01-19)
+
+
+### Miscellaneous
+
+* **deps-dev:** Bump @babel/traverse from 7.16.5 to 7.23.2 ([e4233ab](https://www.github.com/petarvujovic98/voice-rss-client/commit/e4233abdfdf21d202dcdd57f622e54db333adb08))
+
 ### [1.3.7](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.6...v1.3.7) (2023-09-07)
 
 
