@@ -1,5 +1,13 @@
 # Changelog
 
+### [1.3.9](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.8...v1.3.9) (2024-08-26)
+
+
+### Miscellaneous
+
+* **deps-dev:** Bump braces from 3.0.2 to 3.0.3 ([40ed096](https://www.github.com/petarvujovic98/voice-rss-client/commit/40ed09642463d86f077f5fa65c824e01a8a75e2e))
+* **deps-dev:** Bump ws from 7.5.6 to 7.5.10 ([d6dc901](https://www.github.com/petarvujovic98/voice-rss-client/commit/d6dc90119f61b0241ef632facf072c8703c423a5))
+
 ### [1.3.8](https://www.github.com/petarvujovic98/voice-rss-client/compare/v1.3.7...v1.3.8) (2024-01-19)
 
 
